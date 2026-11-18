@@ -1,0 +1,95 @@
+{
+  "Dr. Augusto::Senta aí. A Horizonte virou usina flex para rodar cana e milho safrinha o ano inteiro, mas o caixa fechou sangrando e ninguém na minha mesa sabe apontar onde a margem vazou.": {
+    "file": "/assets/voices/6b485c9a3f834c0e.wav",
+    "durationMs": 16040,
+    "speaker": "Dr. Augusto"
+  },
+  "Dr. Augusto::Bom começo. Você tem até o fim da tarde para conversar com as dez pontas da Horizonte — do talhão da Helena aos silos de milho da Sílvia e o fechamento do André no porto.": {
+    "file": "/assets/voices/3eed037abf53b996.wav",
+    "durationMs": 13160,
+    "speaker": "Dr. Augusto"
+  },
+  "Caio::O satélite aponta. Quem decide é o meu olho e um e-mail com três aprovações.": {
+    "file": "/assets/voices/83d564aaf6c69093.wav",
+    "durationMs": 5680,
+    "speaker": "Caio"
+  },
+  "Marta::Se a digitadora pegar gripe, a colheita de terça só existe na quinta.": {
+    "file": "/assets/voices/d9ea68465dca9be8.wav",
+    "durationMs": 5240,
+    "speaker": "Marta"
+  },
+  "Seu Tião::Caderno não trava, moço.": {
+    "file": "/assets/voices/d2f8dc46d1408bf2.wav",
+    "durationMs": 2520,
+    "speaker": "Seu Tião"
+  },
+  "Rui::Está tudo na pasta azul. A pasta azul sumiu.": {
+    "file": "/assets/voices/49dd7e338800b8c6.wav",
+    "durationMs": 3240,
+    "speaker": "Rui"
+  },
+  "Jonas::Carrega primeiro o caminhão que buzinar mais alto.": {
+    "file": "/assets/voices/63b0b54e05796377.wav",
+    "durationMs": 3120,
+    "speaker": "Jonas"
+  },
+  "Dr. Augusto::Regra da casa: EPI certo em cada área. Chapéu, perneira e botina no campo; capacete e protetor na indústria; colete refletivo no pátio e na balança.": {
+    "file": "/assets/voices/635080d0be914c63.wav",
+    "durationMs": 14760,
+    "speaker": "Dr. Augusto"
+  },
+  "Rodrigo::A integração sou eu. Por telefone.": {
+    "file": "/assets/voices/7eda1a820af8e2e6.wav",
+    "durationMs": 2320,
+    "speaker": "Rodrigo"
+  },
+  "Dr. Augusto::Este mês já sentaram três consultores nessa cadeira. Todos abriram slide bonito nos primeiros cinco minutos e saíram sem pisar no barro.": {
+    "file": "/assets/voices/2947ec52f0835ed9.wav",
+    "speaker": "Dr. Augusto",
+    "voiceName": "Charon",
+    "durationMs": 12370
+  },
+  "Dr. Augusto::O Valdemar, meu gerente de operações há 28 anos, odeia vendedor apressado. Se você tentar empurrar software antes de entender a dor, ele toma seu crachá.": {
+    "file": "/assets/voices/0a9df414204a6441.wav",
+    "speaker": "Dr. Augusto",
+    "voiceName": "Charon",
+    "durationMs": 13130
+  },
+  "Dr. Augusto::Às 18h você volta para esta mesa com fatos, números e evidências do dia. Aí eu decido se assino o diagnóstico com a Senior e a GAtec.": {
+    "file": "/assets/voices/c3ef47f41cc80939.wav",
+    "speaker": "Dr. Augusto",
+    "voiceName": "Charon",
+    "durationMs": 14410
+  },
+  "Helena::O plano está no quadro. A versão certa é a de caneta azul.": {
+    "file": "/assets/voices/34b48c6e3c1ce711.wav",
+    "speaker": "Helena",
+    "voiceName": "Kore",
+    "durationMs": 4290
+  },
+  "Sílvia::A parada programada a gente programa quando quebra.": {
+    "file": "/assets/voices/8a6f1ac7646aa319.wav",
+    "speaker": "Sílvia",
+    "voiceName": "Kore",
+    "durationMs": 4450
+  },
+  "Paula::Está na CUSTO_FINAL_v7_AGORA_VAI.xlsx. Não fecha a planilha!": {
+    "file": "/assets/voices/e576aed4adc4ae62.wav",
+    "speaker": "Paula",
+    "voiceName": "Zephyr",
+    "durationMs": 7530
+  },
+  "André::O contrato está no e-mail. Em algum dos 4.312 não lidos.": {
+    "file": "/assets/voices/1113e4f75d8bc318.wav",
+    "speaker": "André",
+    "voiceName": "Fenrir",
+    "durationMs": 4650
+  },
+  "Você::Bom dia, Helena. O Dr. Augusto pediu para eu começar o diagnóstico da usina flex por aqui.": {
+    "file": "/assets/voices/9068818f4481108e.wav",
+    "speaker": "Você",
+    "voiceName": "Puck",
+    "durationMs": 5930
+  }
+}

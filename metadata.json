@@ -1,0 +1,6 @@
+{
+  "name": "Um Dia de Safra",
+  "description": "Jornada interativa em 3D pela Usina Horizonte — enablement comercial agro da Senior Sistemas (plataforma GAtec).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
